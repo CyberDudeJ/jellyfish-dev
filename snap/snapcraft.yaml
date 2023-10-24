@@ -1,7 +1,7 @@
-name: ftxui-starter
+name: jellyfish-dev
 version: '1.0.0'
-summary: A simple starter project for the FTXUI library.
-description: A simple starter project for the FTXUI library.
+summary: Development Snap for JELLYFISH
+description: Development Snap for JELLYFISH
 
 grade: stable
 confinement: strict
